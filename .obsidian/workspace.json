@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "4fcf874ffa9d7e61",
+    "type": "split",
+    "children": [
+      {
+        "id": "5509f8560fe763d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eb0394a1cca92aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "질문했던 것들.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "질문했던 것들"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c94c25396e498b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5c0f87356fe1829",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "782ac71087fba500",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "68507d2bc583b09f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "28cc2b065fb31a3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8f71d8840e3072fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b9d3a8dc13b6ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f296725b608da60e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1단위 달/3주차/01_월(2025-12-29).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01_월(2025-12-29) 의 백링크"
+            }
+          },
+          {
+            "id": "013fe5193bb503c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1단위 달/3주차/01_월(2025-12-29).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "01_월(2025-12-29) 의 나가는 링크"
+            }
+          },
+          {
+            "id": "f03260dfa5171d41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "520a6f3c8ea2095d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "1c3f3c6891c93d1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1단위 달/3주차/01_월(2025-12-29).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "01_월(2025-12-29) 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "9eb0394a1cca92aa",
+  "lastOpenFiles": [
+    "추가 지식들/명령어/cmd 명령어.md",
+    "추가 지식들/명령어/우분투 명령어.md",
+    "추가 지식들/명령어/도커 개념 및 명령어.md",
+    "추가 지식들/용어.md",
+    "추가 지식들/네트워크/WireShark.md",
+    "추가 지식들/네트워크/ARP.md",
+    "추가 지식들/네트워크/통신방식(LAN에서 통신하는 방식).md",
+    "추가 지식들/네트워크/로드밸런싱.md",
+    "추가 지식들/네트워크/공인 IP.md",
+    "추가 지식들/네트워크/게이트웨이.md",
+    "1단위 달/3주차/02_화(2025-12-30).md",
+    "1단위 달/3주차/01_월(2025-12-29).md",
+    "1단위 달/2주차/03_수(2025-12-24).md",
+    "1단위 달/2주차/02_화(2025-12-23).md",
+    "1단위 달/2주차/01_월(2025-12-22).md",
+    "1단위 달/1주차/04_목(2025-12-18).md",
+    "1단위 달/1주차/01_월(2025-12-15).md",
+    "1단위 달/1주차/02_화(2025-12-16).md",
+    "1단위 달/1주차/03_수(2025-12-17).md",
+    "1단위 달/1주차/화(2025-12-16).md",
+    "1단위 달/1주차/월(2025-12-15).md",
+    "추가 지식들/네트워크/무제.md",
+    "1단위 달/3주차"
+  ]
+}
