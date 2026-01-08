@@ -75,7 +75,7 @@
 - wsl -d UbuntuA
 	- -d(distribution): 지정한 이름의 배포판을 실행
 	- UbuntuA: 실행하고 싶은 배포판의 이름
-		- ->이 명령어를 실행하면 Ubuntu가 실행돼서 이때부터는 cmd 명령어가 아닌 [[우분투 명령어]]를 써야함
+		- ->이 명령어를 실행하면 Ubuntu가 실행돼서 이때부터는 cmd 명령어가 아닌 [[리눅스 명령어]]를 써야함
 
 - wsl --terminate UbuntuA
 	- 현재 Running 상태인 UbuntuA를 Stopped으로 바꿈, 정지시킴
