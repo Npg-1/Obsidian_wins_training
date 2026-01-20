@@ -1,70 +1,56 @@
 {
   "main": {
-    "id": "4fcf874ffa9d7e61",
+    "id": "21f0437930b9a802",
     "type": "split",
     "children": [
       {
-        "id": "1bb44a058c84706a",
+        "id": "2b0dd8e8024bc7bc",
         "type": "tabs",
         "children": [
           {
-            "id": "caa75be40ef297b6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "8b75cf504e39cbc2",
+            "id": "aa0aca38b3ca24db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2단위달/1주차/03_수(2026-01-14).md",
+                "file": "드림핵 강의/웹해킹/1 - 웹 기초 지식/2. HTTP, HTTPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_수(2026-01-14)"
+              "title": "2. HTTP, HTTPS"
             }
           },
           {
-            "id": "e2cf3b3a0353c948",
+            "id": "ca1026c7f7986b43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2단위달/2주차/01_월(2026-01-19).md",
+                "file": "드림핵 강의/웹해킹/2 - Cookie & Session/1. Cookie & Session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_월(2026-01-19)"
+              "title": "1. Cookie & Session"
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 2
-=======
         "currentTab": 1
->>>>>>> temp
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0c94c25396e498b1",
+    "id": "f90c9ef1ea073788",
     "type": "split",
     "children": [
       {
-        "id": "d5c0f87356fe1829",
+        "id": "33c0af17134f82b9",
         "type": "tabs",
         "children": [
           {
-            "id": "782ac71087fba500",
+            "id": "4314e19b6ad0c1c2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +63,7 @@
             }
           },
           {
-            "id": "68507d2bc583b09f",
+            "id": "096093a9f4caa9b3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +80,7 @@
             }
           },
           {
-            "id": "28cc2b065fb31a3f",
+            "id": "09dee65d4a5b0d65",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,24 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "8f71d8840e3072fc",
+    "id": "546997de0e88a61e",
     "type": "split",
     "children": [
       {
-        "id": "5b9d3a8dc13b6ed6",
+        "id": "e1b64b6c294a83eb",
         "type": "tabs",
         "children": [
           {
-            "id": "f296725b608da60e",
+            "id": "28b036c934cfaec9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1단위 달/3주차/01_월(2025-12-29).md",
+                "file": "2단위달/2주차/01_월(2026-01-19).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01_월(2025-12-29) 의 백링크"
+              "title": "01_월(2026-01-19) 의 백링크"
             }
           },
           {
-            "id": "013fe5193bb503c8",
+            "id": "96c453db8322bf31",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1단위 달/3주차/01_월(2025-12-29).md",
+                "file": "2단위달/2주차/01_월(2026-01-19).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01_월(2025-12-29) 의 나가는 링크"
+              "title": "01_월(2026-01-19) 의 나가는 링크"
             }
           },
           {
-            "id": "f03260dfa5171d41",
+            "id": "55ad42f5ec60bf22",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,7 +152,7 @@
             }
           },
           {
-            "id": "520a6f3c8ea2095d",
+            "id": "8d545698b3d9f037",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,18 +166,18 @@
             }
           },
           {
-            "id": "1c3f3c6891c93d1d",
+            "id": "255d35e41fb9a2fc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1단위 달/3주차/01_월(2025-12-29).md",
+                "file": "2단위달/2주차/01_월(2026-01-19).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01_월(2025-12-29) 의 개요"
+              "title": "01_월(2026-01-19) 의 개요"
             }
           }
         ]
@@ -213,81 +198,22 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "4ca5d812e638db3b",
+  "active": "ca1026c7f7986b43",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Pasted image 20260119163901.png",
-    "Pasted image 20260119163849.png",
-    "Pasted image 20260119163825.png",
-    "2단위달/1주차/03_수(2026-01-14).md",
-    "2단위달/2주차/01_월(2026-01-19).md",
-    "Pasted image 20260119162127.png",
-    "2단위달/1주차/04_목(2026-01-15).md",
-    "2단위달/1주차/띠또쓰.md",
-    "드림핵 강의/웹해킹/웹 기초 지식/4. Browser DevTools.md",
-    "드림핵 강의/웹해킹/웹 기초 지식/3. Web Browser.md",
-    "드림핵 강의/웹해킹/웹 기초 지식/1. 웹.md",
-    "드림핵 강의/웹해킹/웹 기초 지식/2. HTTP, HTTPS.md",
-    "이미지/Pasted image 20260119140831.png",
+    "드림핵 강의/웹해킹/1 - 웹 기초 지식/2. HTTP, HTTPS.md",
+    "드림핵 강의/웹해킹/1 - 웹 기초 지식/1. 웹.md",
+    "드림핵 강의/웹해킹/2 - Cookie & Session/1. Cookie & Session.md",
+    "드림핵 강의/웹해킹/2 - Cookie & Session/2. Same Origin Policy.md",
     "질문했던 것들.md",
+    "2단위달/2주차/01_월(2026-01-19).md",
+    "드림핵 강의/웹해킹/2 - Cookie & Session",
+    "드림핵 강의/무제",
     "추가 지식들/명령어/리눅스 명령어.md",
-    "1단위 달/4주차/01_월(2026-01-05).md",
-    "1단위 달/4주차/p.293 방화벽 정리.md",
-    "2단위달/2주차",
-    "2단위달/1주차/02_화(2026-01-13).md",
-    "이미지/Pasted image 20260118161713.png",
-    "이미지/Pasted image 20260118124208.png",
-    "이미지/Pasted image 20260118123209.png",
-    "이미지/Pasted image 20260118123110.png",
-    "이미지/Pasted image 20260118122906.png",
-    "이미지/Pasted image 20260118122736.png",
-    "드림핵 강의/웹해킹/웹 기초 지식",
-    "2단위달/1주차/01_월(2026-01-12).md",
-=======
-    "2단위달/1주차/01_월(2026-01-12).md",
-    "1단위 달/4주차/01_월(2026-01-05).md",
-    "2단위달/1주차/띠또쓰.md",
-    "2단위달/1주차/03_수(2026-01-14).md",
-    "2단위달/1주차/04_목(2026-01-15).md",
-    "2단위달/1주차/02_화(2026-01-13).md",
->>>>>>> temp
-    "추가 지식들/네트워크/와이어샤크.md",
-    "추가 지식들/용어.md",
-    "추가 지식들/명령어/도커 개념 및 명령어.md",
-    "1단위 달/1주차/02_화(2025-12-16).md",
-<<<<<<< HEAD
-=======
-    "이미지/Pasted image 20251216162256.png",
-    "이미지/Pasted image 20260109134506.png",
-    "이미지/Pasted image 20260109130215.png",
-    "이미지/Pasted image 20260109123933.png",
-    "이미지/Pasted image 20260109094200.png",
->>>>>>> temp
-    "1단위 달/3주차/03_수(2025-12-31).md",
-    "1단위 달/3주차/02_화(2025-12-30).md",
-    "1단위 달/3주차/01_월(2025-12-29).md",
-    "1단위 달/2주차/03_수(2025-12-24).md",
-    "1단위 달/2주차/02_화(2025-12-23).md",
-    "1단위 달/2주차/01_월(2025-12-22).md",
-    "1단위 달/1주차/01_월(2025-12-15).md",
-<<<<<<< HEAD
-=======
-    "1단위 달/1주차/03_수(2025-12-17).md",
-    "1단위 달/1주차/04_목(2025-12-18).md",
-    "추가 지식들/명령어/리눅스 명령어.md",
-    "1단위 달/4주차/04_목(2026-01-08).md",
-    "1단위 달/4주차/05_금(2026-01-09).md",
-    "드림핵 강의/웹해킹/3. Web Browser.md",
     "추가 지식들/명령어/cmd 명령어.md",
-    "1단위 달/4주차/IPS (GUI, CLI).md",
->>>>>>> temp
-    "2단위달/1주차",
-    "2단위달",
-    "무제.base",
-    "드림핵 강의/웹해킹",
-    "드림핵 강의",
-    "Fail Over, Fail Down 그림.canvas",
-    "1단위 달/4주차",
-    "1단위 달/3주차"
+    "2단위달/2주차/02_화(2026-01-20).md",
+    "이미지/Pasted image 20260119163901.png",
+    "이미지/Pasted image 20260119163849.png",
+    "이미지/Pasted image 20260119163825.png",
+    "이미지/Pasted image 20260119162127.png"
   ]
 }
