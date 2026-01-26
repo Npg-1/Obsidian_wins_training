@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0d9b61da57b4d57",
+        "id": "b08c82552ae815aa",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d853889557f37a",
+            "id": "c55feef8e8aed04c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#강조된것",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,10 +184,16 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "d8d853889557f37a",
+  "active": "c55feef8e8aed04c",
   "lastOpenFiles": [
-    "드림핵 강의/웹해킹/2 - Cookie & Session/1. Cookie & Session.md",
+    "1단위 달/1주차/04_목(2025-12-18).md",
     "2단위달/2주차/03_목(2026-01-22, TMS).md",
+    "1단위 달/1주차/03_수(2025-12-17).md",
+    "1단위 달/1주차/02_화(2025-12-16).md",
+    "1단위 달/2주차/01_월(2025-12-22).md",
+    "1단위 달/1주차/01_월(2025-12-15).md",
+    "2단위달/3주차",
+    "드림핵 강의/웹해킹/2 - Cookie & Session/1. Cookie & Session.md",
     "2단위달/2주차/02_화(2026-01-20).md",
     "2단위달/2주차/05_금(2026-01-23).md",
     "2단위달/2주차/01_월(2026-01-19).md",
@@ -208,7 +214,6 @@
     "이미지/Pasted image 20260121141902.png",
     "드림핵 강의/웹해킹/2 - Cookie & Session/2. Same Origin Policy.md",
     "1단위 달/4주차/01_월(2026-01-05).md",
-    "1단위 달/2주차/01_월(2025-12-22).md",
     "드림핵 강의/웹해킹/1 - 웹 기초 지식/2. HTTP, HTTPS.md",
     "드림핵 강의/웹해킹/1 - 웹 기초 지식/1. 웹.md",
     "질문했던 것들.md",
