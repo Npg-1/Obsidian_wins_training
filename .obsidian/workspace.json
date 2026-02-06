@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "2 - 리눅스 파일과 디렉토리"
             }
+          },
+          {
+            "id": "5f0549961d053705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2단위달/4주차/04_목(2026-02-05, WISE 방법론 v6.0).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04_목(2026-02-05, WISE 방법론 v6.0)"
+            }
           }
         ]
       }
@@ -186,20 +200,23 @@
   },
   "active": "c6e956aaa5a3c386",
   "lastOpenFiles": [
-    "Pasted image 20260205175303.png",
-    "Pasted image 20260205175012.png",
-    "이미지/Pasted image 20260205173804.png",
+    "Pasted image 20260206173535.png",
+    "Pasted image 20260206173148.png",
+    "Pasted image 20260206173130.png",
+    "Pasted image 20260206161801.png",
+    "2단위달/4주차/04_목(2026-02-05, WISE 방법론 v6.0).md",
     "드림핵 강의/Linux 101/2 - 리눅스 파일과 디렉토리.md",
-    "이미지/Pasted image 20260205174320.png",
-    "이미지/Pasted image 20260205174302.png",
-    "이미지/Pasted image 20260205174236.png",
-    "이미지/Pasted image 20260205174221.png",
-    "이미지/Pasted image 20260205173858.png",
+    "이미지/Pasted image 20260205175012.png",
+    "이미지/Pasted image 20260206142259.png",
+    "이미지/Pasted image 20260206133240.png",
+    "이미지/Pasted image 20260206132833.png",
+    "이미지/Pasted image 20260206113259.png",
+    "이미지/Pasted image 20260206113200.png",
+    "이미지/Pasted image 20260206111943.png",
+    "무제 1.base",
     "드림핵 강의/Linux 101/3 - 리눅스 프로세스 생성 및 관리.md",
     "드림핵 강의/Linux 101/4 - 리눅스 환경 변수.md",
-    "2단위달/4주차/04_목(2026-02-05, WISE 방법론 v6.0).md",
     "2단위달/4주차/01_월(2026-02-02, NMS 구축 및 운영 실습).md",
-    "이미지/Pasted image 20260202154532.png",
     "추가 지식들/명령어/도커 개념 및 명령어.md",
     "추가 지식들/명령어/cmd 명령어.md",
     "1단위 달/2주차/01_월(2025-12-22).md",
@@ -207,8 +224,6 @@
     "1단위 달/1주차/03_수(2025-12-17).md",
     "드림핵 강의/웹해킹/1 - 웹 기초 지식/2. HTTP, HTTPS.md",
     "추가 지식들/명령어/리눅스 명령어.md",
-    "이미지/Pasted image 20260203103600.png",
-    "이미지/Pasted image 20260203103525.png",
     "1단위 달/3주차/03_수(2025-12-31).md",
     "1단위 달/1주차/02_화(2025-12-16).md",
     "1단위 달/1주차/01_월(2025-12-15).md",
