@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "92b63a999620d29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "드림핵 강의/Linux 101/1 - 리눅스 셸.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - 리눅스 셸"
+            }
+          },
+          {
             "id": "c6e956aaa5a3c386",
             "type": "leaf",
             "state": {
@@ -22,20 +36,19 @@
             }
           },
           {
-            "id": "5f0549961d053705",
+            "id": "616a93bdce7a31d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2단위달/4주차/04_목(2026-02-05, WISE 방법론 v6.0).md",
-                "mode": "source",
-                "source": false
+                "file": "이미지/Pasted image 20260207141959.png"
               },
-              "icon": "lucide-file",
-              "title": "04_목(2026-02-05, WISE 방법론 v6.0)"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260207141959"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "546997de0e88a61e",
@@ -198,23 +210,23 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "c6e956aaa5a3c386",
+  "active": "4314e19b6ad0c1c2",
   "lastOpenFiles": [
-    "Pasted image 20260206173535.png",
-    "Pasted image 20260206173148.png",
-    "Pasted image 20260206173130.png",
-    "Pasted image 20260206161801.png",
-    "2단위달/4주차/04_목(2026-02-05, WISE 방법론 v6.0).md",
-    "드림핵 강의/Linux 101/2 - 리눅스 파일과 디렉토리.md",
-    "이미지/Pasted image 20260205175012.png",
-    "이미지/Pasted image 20260206142259.png",
-    "이미지/Pasted image 20260206133240.png",
-    "이미지/Pasted image 20260206132833.png",
-    "이미지/Pasted image 20260206113259.png",
-    "이미지/Pasted image 20260206113200.png",
-    "이미지/Pasted image 20260206111943.png",
-    "무제 1.base",
     "드림핵 강의/Linux 101/3 - 리눅스 프로세스 생성 및 관리.md",
+    "드림핵 강의/Linux 101/1 - 리눅스 셸.md",
+    "이미지/Pasted image 20260207173912.png",
+    "이미지/Pasted image 20260207173844.png",
+    "이미지/Pasted image 20260207172849.png",
+    "이미지/Pasted image 20260207164035.png",
+    "이미지/Pasted image 20260207172802.png",
+    "이미지/Pasted image 20260207170902.png",
+    "이미지/Pasted image 20260207172709.png",
+    "이미지/Pasted image 20260207172002.png",
+    "이미지/Pasted image 20260207165957.png",
+    "이미지/Pasted image 20260207163949.png",
+    "드림핵 강의/Linux 101/2 - 리눅스 파일과 디렉토리.md",
+    "2단위달/4주차/04_목(2026-02-05, WISE 방법론 v6.0).md",
+    "무제 1.base",
     "드림핵 강의/Linux 101/4 - 리눅스 환경 변수.md",
     "2단위달/4주차/01_월(2026-02-02, NMS 구축 및 운영 실습).md",
     "추가 지식들/명령어/도커 개념 및 명령어.md",
@@ -237,7 +249,6 @@
     "2단위달/4주차",
     "추가 지식들/용어.md",
     "2단위달/3주차/05_금(2026-01-30, DDoS 공격 및 방어 기초, IDS_IPS 이론 기초).md",
-    "드림핵 강의/Linux 101/1 - 리눅스 셸.md",
     "드림핵 강의/Linux 101",
     "2단위달/3주차",
     "드림핵 강의/웹해킹/2 - Cookie & Session",
