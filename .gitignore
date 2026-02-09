@@ -1,0 +1,3 @@
+# 옵시디언 작업 상태 파일 제외
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
