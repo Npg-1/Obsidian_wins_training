@@ -1,8 +1,9 @@
 {
   "vimMode": true,
   "showLineNumber": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "spellcheck": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "이미지"
+  "attachmentFolderPath": "이미지",
+  "showInlineTitle": true
 }
